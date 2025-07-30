@@ -40,4 +40,4 @@ async def setup_ticket(ctx):
     await ctx.send("اضغط الزر لفتح تذكرة:", view=view)
 
 # شغل البوت
-bot.run("MTQwMDA3MjAzMTY1MDcxMzY5MA.GDVELn.AXRuizfH2zdJxxJS5XC9ZVsMumWuS6idCtDBFE")
+bot.run("MTQwMDA3MjAzMTY1MDcxMzY5MA.GxWtB0.ku9_kkbMjNCN6N5UpaYxCLr8Wp7RiVeBJU0f6k")
